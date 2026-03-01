@@ -1,2 +1,2 @@
-# LeXiaoQAQ.Share.github.io
+# Share
 我的资源分享网站(搭建中)
